@@ -25,11 +25,28 @@ let booleanIsLoggedIn=Boolean(isloggedIn)
 let someNumber=33
 
 let stringNumber= String(someNumber)
-console.log(stringNumber);
-console.log(typeof stringNumber);
+//console.log(stringNumber);
+//console.log(typeof stringNumber);
 
 /*
 hum ne isme int value ko string me convert kr k dekha
 */
+
+//*************************Operatons*******************
+
+
+let value=3
+
+let negValue=-value
+
+//console.log(negValue);
+
+console.log(2+1)
+console.log(2-2)
+console.log(2*5)
+console.log(2**6)
+console.log(2/3)
+console.
+
 
 
