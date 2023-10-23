@@ -15,10 +15,10 @@ const user = {
 
  console.log(this);
 
-// function chai(){
-//     let username = "hitesh"
-//     console.log(this.username);
-// }
+ function chai(){
+     let username = "hitesh"
+     console.log(this.username);
+ }
 
 // chai()
 
