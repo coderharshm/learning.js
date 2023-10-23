@@ -10,10 +10,10 @@ const user = {
 }
 
  user.welcomeMessage()
-// user.username = "sam"
-// user.welcomeMessage()
+ user.username = "sam"
+ user.welcomeMessage()
 
-// console.log(this);
+ console.log(this);
 
 // function chai(){
 //     let username = "hitesh"
